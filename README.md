@@ -1,1 +1,14 @@
-# DA-Baby-Steps1
+# PROJECT NAME: DA-Baby-Steps1
+
+____
+# PROJECT OBJECTIVE: Problem Statement
+
+____
+# DATA SOURCING
+
+____
+# DATA TRANSFORMATION
+
+____
+# FINDINGS AND RECOMMENDATION
+
